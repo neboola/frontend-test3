@@ -1,11 +1,3 @@
-<!--- 
-
-Aha!!! Good job checking the source code :) Here are some tips for you:
-
-- Good performance practises are appreciated! (how about using the webp option offered by Picsum?)
-- Use Picsum's ability to crop the images to set the right size, never do it using javascript or never load an image bigger than needed.
-- Bonus 1: if you load a new set of images when you reach the bottom (inifinite scrolling), that'll be 10+ points.
--->
 
 Welcome to the second test, may the pug be with you 👋🏼
 
