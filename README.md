@@ -16,7 +16,7 @@ The idea is to load a random set of 10 images using a fanstastic free-to-use API
 
 1. Read the docs and discover Lorem Picsum's API.
 2. Connect the API to your frontend code.
-  - Use the list endpoint to get a list of 10 elements using a random name page from 10 to 30 (both included).
+  - Use the list endpoint to get a list of 10 elements using a random page number from 10 to 30 (both included).
   - Show those images in the list and display the author's name on the card as showed in the design.
 
 Feel free to use any client side JS framework/library but we recommend you to use React.
