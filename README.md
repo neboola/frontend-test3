@@ -1,9 +1,11 @@
 
+# Frontend test
+
 Welcome to the second test, may the pug be with you 👋🏼
 
 ![pug](https://picsum.photos/id/1025/300/300)
 
-This time you will have to code the following screen, only for mobile devices:
+This time you will have to code the following responsive grid: 
 
 https://projects.invisionapp.com/d/main/#/console/18958536/395028718/inspect
 
@@ -17,8 +19,11 @@ The idea is to load a random set of 10 images using a fanstastic free-to-use API
 
 1. Read the docs and discover Lorem Picsum's API.
 2. Connect the API to your frontend code.
-  - Use the list endpoint to get a list of 10 elements using a random page number from 10 to 30 (both included).
+  - Use the list endpoint to get a list of 100 elements.
   - Show those images in the list and display the author's name on the card as showed in the design.
+3. The app has to have some filters: 
+	- An input that filter by author
+	- Some buttons to change the blur and the grayscale. If one of these is on, the other has to be desactivate.
 
 Feel free to use any client side JS framework/library but we recommend you to use React.
 
@@ -29,4 +34,3 @@ Write down any assumption you make.
 You can share your code with us using a github repository or a google drive link. You can even deploy they project using something like github pages if you want.
 
 Happy coding 🤓
-
